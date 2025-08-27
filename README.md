@@ -32,8 +32,8 @@ Education is another area where digital culture has had a profound impact. E-lea
     <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Digital creativity" />
   </section>  <section>
     <h2>🚀 The Future</h2>
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/Fucnd9D35dg" 
+ <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/Fucnd9D35dg?autoplay=1&mute=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
