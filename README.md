@@ -1,5 +1,4 @@
-# Wall-magazine-
-# Digital-culture-from-BCA-1st-sem-
+# Wall magazine on Digital culture from BCA 1st sem
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
