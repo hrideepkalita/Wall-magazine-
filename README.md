@@ -5,7 +5,7 @@
 <body>
   <header>
     <h1>Digital Culture</h1>
-    <p>Exploring how technology shapes our society, creativity, and future</p>
+    <p>Exploring how technology shapes our society, creativity, and future of it !!</p>
   </header>  <section>
     <h2>🌐 What is Digital Culture?</h2>
     <p>
@@ -50,6 +50,7 @@ In conclusion, AI and Machine Learning are reshaping the world by enhancing effi
     <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" alt="Future tech" />
   </section>  <footer>
     <p>Made with ❤️ for the Wall Magazine Competition ( BCA 1st sem )| Digital Culture</p>
-  </footer>
+<a href="mailto:himangshu.kalita@op.iitg.ac.in"> Incase of any imperfections</a> 
+</footer>
 </body>
 </html>
