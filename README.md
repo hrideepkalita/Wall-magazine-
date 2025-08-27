@@ -9,7 +9,7 @@
   </header>  <section>
     <h2>🌐 What is Digital Culture?</h2>
     <p>
-      Digital culture is the way our lives are influenced by the internet, social media, smartphones,
+     Digital culture refers to the lifestyle, habits, and values that have emerged as technology becomes a part of our daily lives. It is not only about using gadgets but also about how we interact with the world through the internet, social media, digital art, e-commerce, and online communities. It changes the way we communicate, learn, shop, work, and even build our identity. In short, digital culture is the bridge between human creativity and modern technology, shaping how people live in the 21st century. Digital culture is the way our lives are influenced by the internet, social media, smartphones,
       and digital innovations. It changes how we communicate, learn, work, and express ourselves.
     </p>
     <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Digital world" />
