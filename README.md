@@ -32,7 +32,14 @@ Education is another area where digital culture has had a profound impact. E-lea
     <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Digital creativity" />
   </section>  <section>
     <h2>🚀 The Future</h2>
-    <p>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/Fucnd9D35dg" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe> 
+  <p>
       With AI, virtual reality, blockchain, and the metaverse, digital culture is constantly evolving.
       The future promises more immersive experiences, smarter technologies, and deeper integration of the
       digital into everyday life.Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines and software capable of performing tasks that typically require human intelligence. These tasks include problem-solving, decision-making, pattern recognition, natural language processing, and learning from experience. AI systems can analyze vast amounts of data quickly and accurately, making them indispensable in areas such as healthcare, finance, education, transportation, and entertainment. One of the most important subsets of AI is Machine Learning (ML), which allows computers to learn from data, recognize patterns, and improve their performance over time without explicit programming. Through ML, AI systems can predict outcomes, recommend personalized solutions, detect fraud, automate repetitive tasks, and even drive autonomous vehicles.
