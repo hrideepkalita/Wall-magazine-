@@ -32,7 +32,7 @@ Education is another area where digital culture has had a profound impact. E-lea
     <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Digital creativity" />
   </section>  <section>
     <h2>🚀 The Future Tech </h2>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fucnd9D35dg?si=lDK31XaGRsviThmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p>
       With AI, virtual reality, blockchain, and the metaverse, digital culture is constantly evolving.
       The future promises more immersive experiences, smarter technologies, and deeper integration of the
