@@ -50,7 +50,7 @@ In conclusion, AI and Machine Learning are reshaping the world by enhancing effi
     <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" alt="Future tech" />
   </section>  <footer>
     <p>Made with ❤️ for the Wall Magazine Competition ( BCA 1st sem )| Digital Culture</p>
-<a href="mailto:himangshu.kalita@op.iitg.ac.in"> Incase of any imperfections</a> 
+<a href="mailto:himangshu.kalita@op.iitg.ac.in"> Incase of any imperfections himangshu.kalita@op.iitg.ac.in</a> 
 </footer>
 </body>
 </html>
