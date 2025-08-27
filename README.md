@@ -35,7 +35,7 @@
       The future promises more immersive experiences, smarter technologies, and deeper integration of the
       digital into everyday life.
     </p>
-    <img src="https://unsplash.com/photos/white-and-black-typewriter-with-white-printer-paper-tGBXiHcPKrM" alt="Future tech" />
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Future tech" />
   </section>  <footer>
     <p>Made with ❤️ for the Wall Magazine Competition ( BCA 1st sem )| Digital Culture</p>
   </footer>
